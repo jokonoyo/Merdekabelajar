@@ -220,7 +220,7 @@ body {
 .gallery .row .menu-card img {
   border-radius: 50%;
   width: 85%;
-  transition: transfrom 0.2s ease-out;
+  transition: transfrom 0.3s ease-out;
 }
 
 .gallery .row .menu-card img:hover {
